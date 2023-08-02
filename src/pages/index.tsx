@@ -29,16 +29,24 @@ const App = () => {
       <LazyShow>
         <>
           <Product />
+          <div className="flex justify-center">
+            <a
+              href="https://master.d3mqj86iwprlmp.amplifyapp.com"
+              className={`px-8 py-3 border border-transparent text-base font-medium rounded-md text-background bg-primary hover:bg-border hover:text-primary md:py-4 md:text-lg md:px-10`}
+            >
+              Ready to give it a shot?
+            </a>
+          </div>
           <Canvas />
         </>
       </LazyShow>
-      <LazyShow>
+      {/* <LazyShow>
         <>
           <Features />
           <Canvas />
         </>
-      </LazyShow>
-      <LazyShow>
+      </LazyShow> */}
+      {/* <LazyShow>
         <Pricing />
       </LazyShow>
       <LazyShow>
@@ -47,7 +55,7 @@ const App = () => {
           <About />
         </>
       </LazyShow>
-      <Analytics />
+      <Analytics /> */}
     </div>
   );
 };

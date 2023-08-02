@@ -27,13 +27,13 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Meet Bio, Your",
+    "subtitle": "Personal Nutrition Assistant",
+    "description": "Unleash the power of AI for your nutrition goals with Bio, your personal nutrition assistant. Whether you're aiming to lose weight, gain muscle, or simply strive for a balanced diet, Bio is here to support you on your journey towards a healthier lifestyle.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+      "text": "Try it out!",
+      "href": "https://master.d3mqj86iwprlmp.amplifyapp.com"
     },
     "secondaryAction": {
       "text": "Email us",
@@ -44,13 +44,13 @@
     "title": "React landing page 2021",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Personalized Nutritional Insights",
+        "description": "Through a deep understanding of the food you consume, Bio can analyze the macro-nutrients, micro-nutrients, and calories in your meals. It's as easy as telling Bio what you've been eating, and you'll receive instant nutritional analysis",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Transform Your Diet with Bio",
+        "description":"With Bio, making informed food choices is a breeze. By tracking your nutrition, Bio helps you understand the impact of your diet on your health, enabling you to make changes that suit your personal needs and goals.",
         "img": "/assets/images/product2.jpg"
       }
     ]
