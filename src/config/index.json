@@ -27,9 +27,9 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Meet Bio, Your",
+    "title": "Meet Hera, Your",
     "subtitle": "Personal Nutrition Assistant",
-    "description": "Unleash the power of AI for your nutrition goals with Bio, your personal nutrition assistant. Whether you're aiming to lose weight, gain muscle, or simply strive for a balanced diet, Bio is here to support you on your journey towards a healthier lifestyle.",
+    "description": "Unleash the power of AI for your nutrition goals with Hera, your personal nutrition assistant. Whether you're aiming to lose weight, gain muscle, or simply strive for a balanced diet, Hera is here to support you on your journey towards a healthier lifestyle.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Try it out!",
@@ -41,16 +41,16 @@
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Eat Smarter, Live Better",
     "items": [
       {
         "title": "Personalized Nutritional Insights",
-        "description": "Through a deep understanding of the food you consume, Bio can analyze the macro-nutrients, micro-nutrients, and calories in your meals. It's as easy as telling Bio what you've been eating, and you'll receive instant nutritional analysis",
+        "description": "Through a deep understanding of the food you consume, Hera can analyze the macro-nutrients, micro-nutrients, and calories in your meals. It's as easy as telling Hera what you've been eating, and you'll receive instant nutritional analysis",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Transform Your Diet with Bio",
-        "description":"With Bio, making informed food choices is a breeze. By tracking your nutrition, Bio helps you understand the impact of your diet on your health, enabling you to make changes that suit your personal needs and goals.",
+        "title": "Transform Your Diet with Hera",
+        "description":"With Hera, making informed food choices is a breeze. By tracking your nutrition, Hera helps you understand the impact of your diet on your health, enabling you to make changes that suit your personal needs and goals.",
         "img": "/assets/images/product2.jpg"
       }
     ]

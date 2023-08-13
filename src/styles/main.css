@@ -26,3 +26,21 @@ a:hover {
 .content ul {
   @apply my-6;
 }
+
+.iphone-frame {
+  width: 375px;
+  height: 667px;
+  border: 16px solid black;
+  border-top-width: 45px;
+  border-bottom-width: 45px;
+  border-radius: 36px;
+  position: relative;
+  overflow: hidden;
+  margin-top: 3rem
+}
+
+.video-container {
+  width: 100%;
+  height: 90%;
+}
+
